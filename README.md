@@ -33,6 +33,8 @@ You can interpret it as a _forked P_ or subliminally a _flipped B_.
 
 [CC BY-SA 4.0](LICENSE)
 
+Copyright (c) 2022 Luís Ferreira and before-commit community
+
 **NOTE:** All products, services or anything associated to trademarks and service
 marks used or referenced on this project are the property of their respective
 companies/owners or its subsidiaries. Other names and brands may be claimed as
